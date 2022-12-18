@@ -1,0 +1,11 @@
+C:\Users\nguye\Desktop\WebserviceSoundcloud\WebserviceSoundcloud\obj\Release\net6.0\PubTmp\Out\WebserviceSoundcloud.exe
+C:\Users\nguye\Desktop\WebserviceSoundcloud\WebserviceSoundcloud\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\nguye\Desktop\WebserviceSoundcloud\WebserviceSoundcloud\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\nguye\Desktop\WebserviceSoundcloud\WebserviceSoundcloud\obj\Release\net6.0\PubTmp\Out\WebserviceSoundcloud.dll
+C:\Users\nguye\Desktop\WebserviceSoundcloud\WebserviceSoundcloud\obj\Release\net6.0\PubTmp\Out\WebserviceSoundcloud.deps.json
+C:\Users\nguye\Desktop\WebserviceSoundcloud\WebserviceSoundcloud\obj\Release\net6.0\PubTmp\Out\WebserviceSoundcloud.runtimeconfig.json
+C:\Users\nguye\Desktop\WebserviceSoundcloud\WebserviceSoundcloud\obj\Release\net6.0\PubTmp\Out\WebserviceSoundcloud.pdb
+C:\Users\nguye\Desktop\WebserviceSoundcloud\WebserviceSoundcloud\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\nguye\Desktop\WebserviceSoundcloud\WebserviceSoundcloud\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nguye\Desktop\WebserviceSoundcloud\WebserviceSoundcloud\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nguye\Desktop\WebserviceSoundcloud\WebserviceSoundcloud\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "B11Kci9/Y22pH7wMVgjOcrkYDcHLc8bcAtzHvulFuT0=",
+  "Source": "WebserviceSoundcloud",
+  "BasePath": "_content/WebserviceSoundcloud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebserviceSoundcloud\\wwwroot",
+      "Source": "WebserviceSoundcloud",
+      "ContentRoot": "C:\\Users\\nguye\\Desktop\\WebserviceSoundcloud\\WebserviceSoundcloud\\wwwroot\\",
+      "BasePath": "_content/WebserviceSoundcloud",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nguye\\Desktop\\WebserviceSoundcloud\\WebserviceSoundcloud\\wwwroot\\Uploads\\Songs\\CryingOverYou-JustaTeeft.Binz.mp3",
+      "SourceId": "WebserviceSoundcloud",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nguye\\Desktop\\WebserviceSoundcloud\\WebserviceSoundcloud\\wwwroot\\",
+      "BasePath": "_content/WebserviceSoundcloud",
+      "RelativePath": "Uploads/Songs/CryingOverYou-JustaTeeft.Binz.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Songs\\CryingOverYou-JustaTeeft.Binz.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\nguye\\Desktop\\WebserviceSoundcloud\\WebserviceSoundcloud\\wwwroot\\Uploads\\Songs\\mascara.mp3",
+      "SourceId": "WebserviceSoundcloud",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nguye\\Desktop\\WebserviceSoundcloud\\WebserviceSoundcloud\\wwwroot\\",
+      "BasePath": "_content/WebserviceSoundcloud",
+      "RelativePath": "Uploads/Songs/mascara.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Songs\\mascara.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\nguye\\Desktop\\WebserviceSoundcloud\\WebserviceSoundcloud\\wwwroot\\Uploads\\Songs\\mymusic.mp3",
+      "SourceId": "WebserviceSoundcloud",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nguye\\Desktop\\WebserviceSoundcloud\\WebserviceSoundcloud\\wwwroot\\",
+      "BasePath": "_content/WebserviceSoundcloud",
+      "RelativePath": "Uploads/Songs/mymusic.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Songs\\mymusic.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\nguye\\Desktop\\WebserviceSoundcloud\\WebserviceSoundcloud\\wwwroot\\Uploads\\Songs\\voyeu3.PNG",
+      "SourceId": "WebserviceSoundcloud",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nguye\\Desktop\\WebserviceSoundcloud\\WebserviceSoundcloud\\wwwroot\\",
+      "BasePath": "_content/WebserviceSoundcloud",
+      "RelativePath": "Uploads/Songs/voyeu3.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Songs\\voyeu3.PNG"
+    }
+  ]
+}
